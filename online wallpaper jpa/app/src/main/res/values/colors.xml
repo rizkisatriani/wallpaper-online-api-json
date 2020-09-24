@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#338bff</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">@color/trans</color>
+    <color name="white">#ffffff</color>
+    <color name="white_tipis">#67ffffff</color>
+    <color name="Blue">#338bff</color>
+    <color name="softgrey">#787878</color>
+    <color name="trans">#00ffffff</color>
+    <color name="tab_color">#43ffffff</color>
+    <color name="text_headline">#ebffffff</color>
+    <color name="text_title">#b2ffffff</color>
+    <color name="subtitle">#8bffffff</color>
+    <color name="description">#5effffff</color>
+    <color name="back_btn_">#ecf0f1</color>
+    <color name="hitam">#010101</color>
+    <color name="shdow_white">#f1f1f1</color>
+    <color name="soft_black">#636161</color>
+
+</resources>
